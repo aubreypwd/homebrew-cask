@@ -9,6 +9,5 @@ cask "reedsy-mac" do
 
   app "Reedsy.app"
 
-  zap trash: [
-  ]
+  zap trash: []
 end
