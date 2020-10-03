@@ -1,16 +1,15 @@
 # Tap
 
-My person tap for my `brew cask` apps.
+Tap for my personal applications:
+
+- [Reedsy for Mac](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
 
 ## How do I install these formulae?
 
-`brew install aubreypwd/tap/<formula>`
-
-Or `brew tap aubreypwd/tap` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+```bash
+brew tap aubreypwd/homebrew-cask
+brew install <formula>
+```
 
 ## Changelog
 
