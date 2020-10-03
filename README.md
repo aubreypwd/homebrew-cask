@@ -9,7 +9,7 @@ Tap for my personal applications:
 ```bash
 brew tap aubreypwd/homebrew-cask
 brew update
-brew install <formula>
+brew cask install <formula>
 ```
 
 ## Changelog
