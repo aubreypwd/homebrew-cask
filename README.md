@@ -23,3 +23,4 @@ Then browse to `/usr/local/Homebrew/Library/Taps/aubreypwd/homebrew-cask` and co
 ## Changelog
 
 - Added `reedsy-mac` ([Github](https://github.com/aubreypwd/reedsy-mac)) `1.0.0`
+- Added `google-voice` ([Github](https://github.com/aubreypwd/google-voice-mac)) `1.0.0`
