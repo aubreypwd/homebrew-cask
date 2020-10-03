@@ -1,6 +1,6 @@
 # Tap
 
-Tap for my personal applications:
+Tap for my personal macOS applications:
 
 - [Reedsy for Mac](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
 
