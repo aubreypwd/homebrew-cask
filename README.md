@@ -9,8 +9,10 @@ Tap for my personal macOS applications:
 ```bash
 brew tap aubreypwd/homebrew-cask
 brew update
-brew cask install <formula>
+brew cask install <formule>
 ```
+
+See Changelog below for a list of addex formule.
 
 ## Development
 
@@ -24,3 +26,4 @@ Then browse to `/usr/local/Homebrew/Library/Taps/aubreypwd/homebrew-cask` and co
 
 - Added `reedsy-mac` ([Github](https://github.com/aubreypwd/reedsy-mac)) `1.0.0`
 - Added `google-voice` ([Github](https://github.com/aubreypwd/google-voice-mac)) `1.0.0`
+- Added `twitter` ([Github](https://github.com/aubreypwd/twitter-mac/))
