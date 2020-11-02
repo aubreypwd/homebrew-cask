@@ -3,6 +3,8 @@
 Tap for my personal macOS applications:
 
 - [Reedsy for Mac](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
+- [Google Voice](https://github.com/aubreypwd/google-voice-mac), `google-voice` 
+- [Twitter.com For Mac](https://github.com/aubreypwd/twitter-mac/), `twitter` 
 
 ## How do I install these formulae?
 
@@ -21,9 +23,3 @@ brew tap aubreypwd/homebrew-cask git@github.com:aubreypwd/homebrew-cask.git
 ```
 
 Then browse to `/usr/local/Homebrew/Library/Taps/aubreypwd/homebrew-cask` and contribute upstream.
-
-## Changelog
-
-- Added `reedsy-mac` ([Github](https://github.com/aubreypwd/reedsy-mac)) `1.0.0`
-- Added `google-voice` ([Github](https://github.com/aubreypwd/google-voice-mac)) `1.0.0`
-- Added `twitter` ([Github](https://github.com/aubreypwd/twitter-mac/))
