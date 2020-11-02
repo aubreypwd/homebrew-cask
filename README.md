@@ -2,9 +2,10 @@
 
 Tap for my personal macOS applications:
 
-- [Reedsy for Mac](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
+- [Reedsy](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
 - [Google Voice](https://github.com/aubreypwd/google-voice-mac), `google-voice` 
-- [Twitter.com For Mac](https://github.com/aubreypwd/twitter-mac/), `twitter` 
+- [Twitter.com](https://github.com/aubreypwd/twitter-mac/), `twitter` 
+- [Youtube](https://github.com/aubreypwd/youtube-mac/), `youtube` 
 
 ## How do I install these formulae?
 
