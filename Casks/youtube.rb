@@ -7,7 +7,7 @@ cask "youtube" do
   name "Youtube for Mac"
   homepage "https://github.com/aubreypwd/youtube-mac/"
 
-  app "Google Voice.app"
+  app "Youtube.app"
 
   zap trash: []
 end
