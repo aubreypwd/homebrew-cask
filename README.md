@@ -15,8 +15,6 @@ brew update
 brew cask install <formule>
 ```
 
-See Changelog below for a list of addex formule.
-
 ## Development
 
 ```
