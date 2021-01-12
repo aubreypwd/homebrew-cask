@@ -5,6 +5,7 @@ Tap for my personal macOS applications:
 - [Reedsy](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
 - [Google Voice](https://github.com/aubreypwd/google-voice-mac), `google-voice` 
 - [Twitter.com](https://github.com/aubreypwd/twitter-mac/), `twitter` 
+- [Twitter.com](https://github.com/aubreypwd/facebook-mac/), `facebook` 
 
 ## How do I install these formulae?
 
