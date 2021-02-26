@@ -19,25 +19,33 @@ brew update
 
 -------
 
-# [Facebook](https://github.com/aubreypwd/facebook-mac/)
+# Apps
+
+## [Facebook](https://github.com/aubreypwd/facebook-mac/)
 
 ```bash
 brew install aubreypwd/homebrew-cask/facebook
 ```
 
-# [Google Voice](https://github.com/aubreypwd/google-voice-mac)
+## [Google Voice](https://github.com/aubreypwd/google-voice-mac)
 
 ```bash
 brew install aubreypwd/homebrew-cask/google-voice
 ```
 
-# [Reedsy](https://github.com/aubreypwd/reedsy-mac/)
+## [Reedsy](https://github.com/aubreypwd/reedsy-mac/)
 
 ```bash
 brew install aubreypwd/homebrew-cask/reedsy
 ```
 
-# [Twitter](https://github.com/aubreypwd/twitter-mac/)
+------------
+
+# Deprecated
+
+These apps might still install, but are not officially supported by my tap or I don't update/use those apps anymore.
+
+## [Twitter](https://github.com/aubreypwd/twitter-mac/)
 
 ```bash
 brew install aubreypwd/homebrew-cask/twitter
