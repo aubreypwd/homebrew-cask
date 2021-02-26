@@ -1,6 +1,8 @@
-# Tap
+# `aubreypwd/homebrew-cask` Tap
 
 Tap for my personal macOS applications:
+
+------
 
 To add tap for the below apps:
 
