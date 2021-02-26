@@ -2,21 +2,6 @@
 
 Tap for my personal macOS applications:
 
-------
-
-To add tap for the below apps:
-
-```bash
-brew update
-brew tap aubreypwd/homebrew-cask
-```
-
-Then to install apps:
-
-```bash
-brew update
-```
-
 -------
 
 # Apps
@@ -24,18 +9,21 @@ brew update
 ## [Facebook](https://github.com/aubreypwd/facebook-mac/)
 
 ```bash
+brew tap aubreypwd/homebrew-cask
 brew install aubreypwd/homebrew-cask/facebook
 ```
 
 ## [Google Voice](https://github.com/aubreypwd/google-voice-mac)
 
 ```bash
+brew tap aubreypwd/homebrew-cask
 brew install aubreypwd/homebrew-cask/google-voice
 ```
 
 ## [Reedsy](https://github.com/aubreypwd/reedsy-mac/)
 
 ```bash
+brew tap aubreypwd/homebrew-cask
 brew install aubreypwd/homebrew-cask/reedsy
 ```
 
@@ -48,6 +36,7 @@ These apps might still install, but are not officially supported by my tap or I 
 ## [Twitter](https://github.com/aubreypwd/twitter-mac/)
 
 ```bash
+brew tap aubreypwd/homebrew-cask
 brew install aubreypwd/homebrew-cask/twitter
 ```
 
