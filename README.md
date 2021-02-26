@@ -6,6 +6,13 @@ Tap for my personal macOS applications:
 
 # Apps
 
+## [Chillhop Radio](https://github.com/aubreypwd/chillhop-radio-mac)
+
+```bash
+brew tap aubreypwd/homebrew-cask
+brew install aubreypwd/homebrew-cask/chillhop-radio
+```
+
 ## [Facebook](https://github.com/aubreypwd/facebook-mac/)
 
 ```bash
