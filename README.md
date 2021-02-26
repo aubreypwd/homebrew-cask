@@ -42,7 +42,7 @@ brew install aubreypwd/homebrew-cask/twitter
 
 -----------
 
-## Development
+# Development
 
 ```
 brew tap aubreypwd/homebrew-cask git@github.com:aubreypwd/homebrew-cask.git
