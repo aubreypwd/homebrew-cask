@@ -2,18 +2,46 @@
 
 Tap for my personal macOS applications:
 
-- [Reedsy](https://github.com/aubreypwd/reedsy-mac/), `reedsy-mac`
-- [Google Voice](https://github.com/aubreypwd/google-voice-mac), `google-voice` 
-- [Twitter](https://github.com/aubreypwd/twitter-mac/), `twitter` 
-- [Facebook](https://github.com/aubreypwd/facebook-mac/), `facebook` 
-
-## How do I install these formulae?
+To add tap for the below apps:
 
 ```bash
-brew tap aubreypwd/homebrew-cask
 brew update
-brew cask install <formule>
+brew tap aubreypwd/homebrew-cask
 ```
+
+Then to install apps:
+
+```bash
+brew update
+```
+
+-------
+
+#[Facebook](https://github.com/aubreypwd/facebook-mac/)
+
+```bash
+brew install aubreypwd/homebrew-cask/facebook
+```
+
+#[Google Voice](https://github.com/aubreypwd/google-voice-mac)
+
+```bash
+brew install aubreypwd/homebrew-cask/google-voice
+```
+
+#[Reedsy](https://github.com/aubreypwd/reedsy-mac/)
+
+```bash
+brew install aubreypwd/homebrew-cask/reedsy
+```
+
+#[Twitter](https://github.com/aubreypwd/twitter-mac/)
+
+```bash
+brew install aubreypwd/homebrew-cask/twitter
+```
+
+-----------
 
 ## Development
 
