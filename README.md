@@ -1,4 +1,4 @@
-# Tap: `aubreypwd/homebrew-cask`
+# `aubreypwd/homebrew-cask`
 
 Tap for my personal macOS applications:
 
