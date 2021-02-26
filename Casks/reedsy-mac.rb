@@ -1,4 +1,4 @@
-cask "reedsy-mac" do
+cask "aubreypwd/reedsy" do
   version "1.0.0"
   sha256 :no_check
 
