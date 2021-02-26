@@ -4,7 +4,7 @@ cask "chillhop-radio" do
 
   url "https://github.com/aubreypwd/chillhop-radio-mac/releases/download/v2.0.0/Chillhop.Radio.2.0.0.dmg"
 
-  appcast "https://github.com/aubreypwd/chillhop-radio-mac"
+  appcast "https://github.com/aubreypwd/chillhop-radio-mac/"
   homepage "https://github.com/aubreypwd/chillhop-radio-mac/"
 
   zap trash: []
