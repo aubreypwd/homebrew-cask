@@ -34,6 +34,13 @@ brew tap aubreypwd/homebrew-cask
 brew install aubreypwd/homebrew-cask/reedsy
 ```
 
+## [Chat with @aubreypwd (tlk.io)](https://github.com/aubreypwd/chat-with-aubreypwd-mac/)
+
+```bash
+brew tap aubreypwd/homebrew-cask
+brew install aubreypwd/homebrew-cask/chat-with-aubreypwd
+```
+
 ------------
 
 # Deprecated
