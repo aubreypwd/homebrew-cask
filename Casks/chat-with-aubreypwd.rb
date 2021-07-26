@@ -3,7 +3,7 @@ cask "chat-with-aubreypwd" do
 
   name "Chat with @aubreypwd"
 
-  url "https://github.com/aubreypwd/chat-with-aubreypwd-mac/releases/download/v1.0.0/Chat.with.@aubreypwd.1.0.0.dmg"
+  url "https://github.com/aubreypwd/chat-with-aubreypwd-mac/releases/download/v1.0.1/Chat.with.@aubreypwd.1.0.1.dmg"
   appcast "https://github.com/aubreypwd/chat-with-aubreypwd-mac/releases/download/"
   homepage "https://github.com/aubreypwd/chat-with-aubreypwd-mac/"
 
